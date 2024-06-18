@@ -45,6 +45,3 @@
       - [Creating a Subnet](/metadata-distribution)
       - [Managing Addresses](/configuration)
       - [Importing Leases](/configuration)
-- **SchoolDesk Facilities**
-  - **Get Started**
-    - [About SchoolDesk Facilities](/about-schooldesk-facilities)
