@@ -18,8 +18,8 @@
     - [Introduction](/advance)
     - [Creating a Service Job](/metadata-distribution)
     - [Managing a Service Job](/configuration)
-    - [Generating a Service Job Slip](/template)
-    - [Generating a Data Consent Form](/helpers)
+    - [Generate Service Job Slip](/template)
+    - [Generate Data Consent Form](/helpers)
 - **Staff Notebooks**
     - [Introduction](/advance)
     - [Setting the Tranche](/metadata-distribution)
