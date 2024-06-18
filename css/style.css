@@ -1,0 +1,10 @@
+.resizable-image {
+    margin: 10px;
+    width: 100%; /* Adjusts to the width of the parent container */
+    max-width: 500px; /* Maximum width for the image */
+    height: auto; /* Maintains the aspect ratio */
+}
+
+.resizable-image:hover {
+    width: 110%; /* Increase the width slightly on hover */
+}

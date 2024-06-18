@@ -1,7 +1,7 @@
-- [About SchoolOHS Facilities](/about-schooldesk)
+- [About SchoolOHS Facilities](/ohsdocs/about-schooldesk)
 - **SchoolOHS User Portal**
-  - [Logging In](/about-schooldesk)
-  - [The Dashboard](/about-schooldesk)
-  - [Submitting an Incident](/about-schooldesk)
+  - [Logging In](/ohsdocs/about-schooldesk)
+  - [The Dashboard](/ohsdocs/about-schooldesk)
+  - [Submitting an Incident](/ohsdocs/about-schooldesk)
 - **SchoolOHS Facilities Admin**
-  - [The Dashboard](/about-schooldesk)
+  - [The Dashboard](/ohsdocs/about-schooldesk)
