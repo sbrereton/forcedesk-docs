@@ -1,4 +1,3 @@
-- [About SchoolDesk](/about-schooldesk)
 - **SchoolDesk User Portal**
   - [Logging In](/portal/logging-in)
   - [The Dashboard](/portal/the-dashboard)
