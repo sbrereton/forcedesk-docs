@@ -1,11 +1,11 @@
 - [About SchoolDesk](/about-schooldesk)
 - **SchoolDesk User Portal**
-  - [Logging In](/about-schooldesk)
-  - [The Dashboard](/about-schooldesk)
-  - [Submitting a Ticket](/about-schooldesk)
-  - [Viewing Tickets](/about-schooldesk)
+  - [Logging In](/portal/logging-in)
+  - [The Dashboard](/portal/the-dashboard)
+  - [Submitting a Ticket](/portal/submitting-a-ticket)
+  - [Viewing Tickets](/portal/viewing-tickets)
 - **SchoolDesk Admin**
-  - [The Dashboard](/about-schooldesk)
+  - [The Dashboard](/admin/the-dashboard)
   - **Tickets**
       - [Creating a Ticket](/create-ticket)
       - [Managing a Ticket](/manage-ticket)
