@@ -1,48 +1,50 @@
-<!-- docs/_sidebar.md -->
-
-- **Get Started**
-    - [About SchoolDesk](/about-schooldesk)
-- **Tickets**
-    - [Introduction](/tickets)
-    - [Creating a Ticket](/create-ticket)
-    - [Managing a Ticket](/manage-ticket)
-    - [Assigning a Ticket](/assign-ticket)
-- **Assets**
-    - [Introduction](/tickets)
-    - [Creating an Asset](/create-ticket)
-    - [Managing an Asset](/manage-ticket)
-    - [Assigning an Asset](/assign-ticket)  
-    - [Performing a Stocktake](/assign-ticket)  
-    - [Generating an Asset Report](/assign-ticket)
-- **Service Jobs**
-    - [Introduction](/advance)
-    - [Creating a Service Job](/metadata-distribution)
-    - [Managing a Service Job](/configuration)
-    - [Generate Service Job Slip](/template)
-    - [Generate Data Consent Form](/helpers)
-- **Staff Notebooks**
-    - [Introduction](/advance)
-    - [Setting the Tranche](/metadata-distribution)
-    - [Importing Staff Notebooks](/configuration)
-    - [Manually Adding Notebooks](/template)
-    - [Allocating Notebooks](/template)
-    - [Generating Reports](/helpers)
-- **File Manager**
-    - [Introduction](/advance)
-    - [Creating Folders](/metadata-distribution)
-    - [Uploading Files](/configuration)
-    - [Downloading Files](/template)
-- **Tasks**
-    - [Introduction](/advance)
-    - [Creating Tasks](/metadata-distribution)
-    - [Setting Reminders](/configuration)
-    - [Sharing Tasks](/template)
-- **Wiki**
-    - [Introduction](/advance)
-    - [Managing Categories](/metadata-distribution)
-    - [Creating Articles](/configuration)
-- **IP Addressing**
-    - [Introduction](/advance)
-    - [Creating a Subnet](/metadata-distribution)
-    - [Managing Addresses](/configuration)
-    - [Importing Leases](/configuration)
+- **SchoolDesk**
+  - **Get Started**
+      - [About SchoolDesk](/about-schooldesk)
+  - **Tickets**
+      - [Introduction](/tickets)
+      - [Creating a Ticket](/create-ticket)
+      - [Managing a Ticket](/manage-ticket)
+      - [Assigning a Ticket](/assign-ticket)
+  - **Assets**
+      - [Introduction](/tickets)
+      - [Creating an Asset](/create-ticket)
+      - [Managing an Asset](/manage-ticket)
+      - [Assigning an Asset](/assign-ticket)  
+      - [Performing a Stocktake](/assign-ticket)  
+      - [Generating an Asset Report](/assign-ticket)
+  - **Service Jobs**
+      - [Introduction](/advance)
+      - [Creating a Service Job](/metadata-distribution)
+      - [Managing a Service Job](/configuration)
+      - [Generate Service Job Slip](/template)
+      - [Generate Data Consent Form](/helpers)
+  - **Staff Notebooks**
+      - [Introduction](/advance)
+      - [Setting the Tranche](/metadata-distribution)
+      - [Importing Staff Notebooks](/configuration)
+      - [Manually Adding Notebooks](/template)
+      - [Allocating Notebooks](/template)
+      - [Generating Reports](/helpers)
+  - **File Manager**
+      - [Introduction](/advance)
+      - [Creating Folders](/metadata-distribution)
+      - [Uploading Files](/configuration)
+      - [Downloading Files](/template)
+  - **Tasks**
+      - [Introduction](/advance)
+      - [Creating Tasks](/metadata-distribution)
+      - [Setting Reminders](/configuration)
+      - [Sharing Tasks](/template)
+  - **Wiki**
+      - [Introduction](/advance)
+      - [Managing Categories](/metadata-distribution)
+      - [Creating Articles](/configuration)
+  - **IP Addressing**
+      - [Introduction](/advance)
+      - [Creating a Subnet](/metadata-distribution)
+      - [Managing Addresses](/configuration)
+      - [Importing Leases](/configuration)
+- **SchoolDesk Facilities**
+  - **Get Started**
+    - [About SchoolDesk Facilities](/about-schooldesk-facilities)
